@@ -3,7 +3,7 @@
 </script>
 
 
-<h1>Welcome to simple Client/DB site</h1>
+<h1>Welcome to simple Client/DB site called evergardendb</h1>
 <p>Bits and pieces to get started in Svelte and Sveltekit</p>
 <p>SvelteKit using PostgreSQL for a database</p>
 
